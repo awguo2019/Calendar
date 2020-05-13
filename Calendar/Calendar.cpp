@@ -24,7 +24,7 @@ void getinfo(int m, int d, int y);
 int main()
 {
 	int ans1;
-
+	
 	
 	int y;
 	int d;
